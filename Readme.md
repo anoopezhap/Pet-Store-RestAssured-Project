@@ -16,24 +16,24 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine:
 
-```shell
+```bash
 git clone https://github.com/anoopezhap/Pet-Store-RestAssured-Project.git
 ```
 2. Navigate to the project directory:
 
-```shell
+```bash
 cd rest-assured-petstore
 ```
 3. Build the project and download dependencies using Maven:
 
-```shell
+```bash
 mvn clean install
 ```
 ## Usage
 
 After successfully installing the project, you can run the tests using the following command:
 
-```shell
+```bash
 mvn test
 ```
 This will execute all the test cases present in the project and generate test reports.
